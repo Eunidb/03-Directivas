@@ -59,7 +59,7 @@
       titulo: "Hola desde VUE.js",
       html: "<h3> Soy un H3 </h3>",
       edad:0,
-      usuarios :["Eron", "Alberto", "Kevin","Cristopher", "Aldo"],
+      usuarios :["Eunice", "Alberto", "Kevin","Cristopher", "Aldo"],
       clicks: 0,
       url: "https://cdn.svgporn.com/logos/descript-icon.svg"
     }),
@@ -80,7 +80,7 @@
 
 <style scoped>
   *{
-    background: plum;
+    background: aqua;
     margin: 0px;
     align-items: center;
   }
